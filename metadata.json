@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Match & Voice",
+  "description": "A dual-mode social application featuring voice chat with AI personas, filtering capabilities, and a responsive layout that adapts between contact management and dating mode.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
